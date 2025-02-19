@@ -1,1 +1,19 @@
-{"users":[{"id":"a5664904-400d-4e77-9ff8-7dca0868aaf4","name":"Thales Oliveira","email":"thales@gmail.com"}]}
+{
+  "users": [
+    {
+      "id": "d6fc3c57-8e42-4c93-ba94-7e2a6edaadf5",
+      "name": "Thales Oliveira 2",
+      "email": "thales@gmail.com"
+    },
+    {
+      "id": "848b6f52-713c-4aee-98a1-1aadd498af69",
+      "name": "Thales Oliveira alterado",
+      "email": "slaman@gmail.com"
+    },
+    {
+      "id": "fa85ea39-c55a-47ce-aa63-8a0204950535",
+      "name": "Thales Oliveira alterado",
+      "email": "slaman@gmail.com"
+    }
+  ]
+}
